@@ -1,7 +1,7 @@
 ---
-title: 'Speedrun-OR #1'
-date: 2022-04-13
-permalink: /posts/2022/04/speedrun-1/
+title: 'How to install open-source optimization software?'
+date: 2022-09-14
+permalink: /posts/2022/04/installation/
 tags:
   - open-source
   - solver
@@ -9,8 +9,14 @@ tags:
   - installation
 ---
 
+Introduction
+======
+
 This file will have installation guidelines.
 
+
+Importing a latex code.
+------
 ```latex
 \documentclass{beamer}
 
@@ -32,13 +38,13 @@ This file will have installation guidelines.
 \end{document}
 ```
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
+Importing latex formula.
+------
 
-Headings are cool
+
+
+Large heading
 ======
 
-You can have many headings
-======
-
-Aren't headings cool?
+Small heading
 ------
