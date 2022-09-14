@@ -17,7 +17,7 @@ This file will have installation guidelines.
 
 Importing a latex code.
 ------
-``latex
+```latex
 \documentclass{beamer}
 
 \begin{document}
@@ -36,7 +36,7 @@ Importing a latex code.
 \end{frame}
 
 \end{document}
-``
+```
 
 Importing latex formula.
 ------
